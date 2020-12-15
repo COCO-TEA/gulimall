@@ -71,7 +71,7 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>javax.validation</groupId>
             <artifactId>validation-api</artifactId>
             <version>2.0.1.Final</version>
@@ -106,7 +106,7 @@
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- 引入链路追踪sleuth -->
         <!--        <dependency>-->
@@ -116,10 +116,10 @@
         <!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-zipkin -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-zipkin</artifactId>
-        </dependency>
+        </dependency>-->
 
     </dependencies>
 
